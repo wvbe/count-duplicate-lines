@@ -1,0 +1,10 @@
+{
+	"name": "count-duplicate-lines",
+	"version": "1.0.0",
+	"description": "",
+	"bin": {
+		"count-duplicate-lines": "count-duplicate-lines.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
