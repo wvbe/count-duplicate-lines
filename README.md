@@ -2,7 +2,7 @@
 
 This is a command-line utility that counts the number of duplicate lines in your streamed input.
 
-Quite plainly, this is the command line equivalent of [this nifty little page](https://www.somacon.com/p568.php).
+Quite plainly, this is the command line equivalent of [this Duplicates in a List Online Tool](https://www.somacon.com/p568.php) by Shailesh N. Humbad.
 
 ## installation
 
