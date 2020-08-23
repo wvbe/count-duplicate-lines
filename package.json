@@ -1,10 +1,24 @@
 {
 	"name": "count-duplicate-lines",
-	"version": "1.0.0",
-	"description": "",
+	"version": "1.0.1",
+	"description": "This is a command-line utility that counts the number of duplicate lines in your streamed input.",
+	"repository": "wvbe/count-duplicate-lines",
+	"author": {
+		"name": "Wybe Minnebo",
+		"email": "wybe@x-54.com",
+		"url": "https://github.com/wvbe"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/wvbe/count-duplicate-lines",
+	"keywords": [
+		"cli",
+		"terminal",
+		"count",
+		"duplicate",
+		"unique",
+		"lines"
+	],
 	"bin": {
 		"count-duplicate-lines": "count-duplicate-lines.js"
-	},
-	"author": "",
-	"license": "ISC"
+	}
 }
